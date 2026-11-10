@@ -1,0 +1,109 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<section id="contacts">
+    <h1>Контакти</h1>
+    <p>Зв'яжіться з нами будь-яким зручним способом. Відповідаємо протягом одного робочого дня.</p>
+
+    <nav>
+        <h2>Зміст</h2>
+        <ul>
+            <li><a href="#main">Основні контакти</a></li>
+            <li><a href="#departments">Контакти відділів</a></li>
+            <li><a href="#hours">Графік роботи</a></li>
+            <li><a href="#office">Як нас знайти</a></li>
+            <li><a href="#social">Ми в мережі</a></li>
+            <li><a href="#how">Як працювати з нами</a></li>
+            <li><a href="#faq">Часті запитання</a></li>
+        </ul>
+    </nav>
+
+    <section id="main">
+        <h2>Основні контакти</h2>
+        <ul>
+            <li>Email: <a href="mailto:info@comd.example">info@comd.example</a></li>
+            <li>Телефон: <a href="tel:+380000000000">+38 (000) 000-00-00</a></li>
+            <li>Адреса: м. Київ, вул. Прикладна, 1, офіс 10</li>
+        </ul>
+    </section>
+
+    <section id="departments">
+        <h2>Контакти відділів</h2>
+        <ul>
+            <li><b>Нові проєкти та співпраця:</b> <a href="mailto:sales@comd.example">sales@comd.example</a></li>
+            <li><b>Технічна підтримка:</b> <a href="mailto:support@comd.example">support@comd.example</a></li>
+            <li><b>Вакансії та стажування:</b> <a href="mailto:jobs@comd.example">jobs@comd.example</a></li>
+            <li><b>Керівництво:</b> <a href="mailto:director@comd.example">director@comd.example</a></li>
+        </ul>
+    </section>
+
+    <section id="hours">
+        <h2>Графік роботи</h2>
+        <ul>
+            <li>Понеділок – п'ятниця: 9:00 – 18:00</li>
+            <li>Субота, неділя: вихідні</li>
+            <li>Прийом клієнтів: щоп'ятниці, 15:00 – 17:00 (за попереднім записом)</li>
+            <li>Технічна підтримка для клієнтів на супроводі: цілодобово</li>
+        </ul>
+    </section>
+
+    <section id="office">
+        <h2>Як нас знайти</h2>
+        <p>Наш офіс розташований у діловому центрі, у п'яти хвилинах ходьби від метро.</p>
+        <ul>
+            <li>Адреса: м. Київ, вул. Прикладна, 1, офіс 10</li>
+            <li>Поверх: 3, вхід з внутрішнього двору</li>
+            <li>Паркування: є для відвідувачів</li>
+        </ul>
+        <p>Перед візитом, будь ласка, напишіть нам, щоб ми підготували перепустку.</p>
+    </section>
+
+    <section id="social">
+        <h2>Ми в мережі</h2>
+        <ul>
+            <li>GitHub директора: <a href="https://github.com/Arsenii123">github.com/Arsenii123</a></li>
+            <li>Telegram: @comd_example</li>
+            <li>LinkedIn: ComD</li>
+        </ul>
+    </section>
+
+    <section id="how">
+        <h2>Як працювати з нами</h2>
+        <ol>
+            <li>Напишіть або зателефонуйте та коротко опишіть задачу.</li>
+            <li>Ми призначимо зустріч або дзвінок для обговорення деталей.</li>
+            <li>Підготуємо пропозицію з термінами та вартістю.</li>
+            <li>Підпишемо договір і почнемо роботу.</li>
+        </ol>
+    </section>
+
+    <section id="faq">
+        <h2>Часті запитання</h2>
+
+        <details>
+            <summary>Скільки часу ви відповідаєте на запит?</summary>
+            <p>Зазвичай протягом одного робочого дня.</p>
+        </details>
+
+        <details>
+            <summary>Чи можна зустрітися онлайн?</summary>
+            <p>Так, ми проводимо зустрічі у форматі відеодзвінка.</p>
+        </details>
+
+        <details>
+            <summary>Що написати у першому листі?</summary>
+            <p>Коротко опишіть, що вам потрібно, і вкажіть бажані терміни та бюджет, якщо вони відомі.</p>
+        </details>
+
+        <details>
+            <summary>Чи працюєте ви з клієнтами з інших країн?</summary>
+            <p>Так, у нас є досвід роботи з клієнтами з різних країн.</p>
+        </details>
+    </section>
+
+    <p>
+   
+        <a href="{% url 'index' %}">На головну</a>
+    </p>
+</section>
+{% endblock %}

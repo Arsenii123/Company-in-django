@@ -1,0 +1,101 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<section id="about-director">
+    <h1>Про директора</h1>
+
+    <nav>
+        <h2>Зміст</h2>
+        <ul>
+            <li><a href="#bio">Коротко про мене</a></li>
+            <li><a href="#projects">Проєкти</a></li>
+            <li><a href="#skills">Навички та експертиза</a></li>
+            <li><a href="#vision">Бачення компанії</a></li>
+            <li><a href="#contact">Зв'язатися</a></li>
+        </ul>
+    </nav>
+
+    <section id="bio">
+        <h2>Арсеній (Senya)</h2>
+        <p><b>Засновник і генеральний директор ComD</b></p>
+        <p>
+            Я займаюся програмуванням і веб-розробкою та створив ComD, щоб робити
+            надійні й зручні веб-рішення на Django для бізнесу.
+        </p>
+        <p>
+            Вірю, що хороший проєкт починається з уважного розуміння задач клієнта,
+            а закінчується не запуском, а підтримкою та розвитком.
+        </p>
+        <p>
+            Мій профіль на GitHub: <a href="https://github.com/Arsenii123">github.com/Arsenii123</a>
+        </p>
+    </section>
+
+    <section id="projects">
+        <h2>Проєкти</h2>
+        <p>Серед моїх відкритих робіт на GitHub:</p>
+
+        <article>
+            <h3>OnlineShop</h3>
+            <p>Спортивний інтернет-магазин. Мова: JavaScript.</p>
+            <p><a href="https://github.com/Arsenii123/OnlineShop">Переглянути на GitHub</a></p>
+        </article>
+
+        <article>
+            <h3>IPAY backend</h3>
+            <p>Серверна частина платіжного проєкту. Мова: C#.</p>
+            <p><a href="https://github.com/ThisIsEngineerGaming/IPAY_backend">Переглянути на GitHub</a></p>
+        </article>
+
+        <article>
+            <h3>Game</h3>
+            <p>Підсумковий проєкт, гра. Мова: C++.</p>
+            <p><a href="https://github.com/Arsenii123/Game">Переглянути на GitHub</a></p>
+        </article>
+
+        <article>
+            <h3>Final project</h3>
+            <p>Гра «Пам'ять» (Memory game). Мова: C++.</p>
+            <p><a href="https://github.com/Arsenii123/Final_project">Переглянути на GitHub</a></p>
+        </article>
+
+        <p>Усього на GitHub опубліковано понад 90 репозиторіїв.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Навички та експертиза</h2>
+        <ul>
+            <li>Python, Django</li>
+            <li>JavaScript, HTML, CSS</li>
+            <li>C# та C++</li>
+            <li>Git і GitHub</li>
+            <li>Проєктування веб-застосунків та інтернет-магазинів</li>
+            <li>Управління командою та проєктами</li>
+        </ul>
+    </section>
+
+    <section id="vision">
+        <h2>Бачення компанії</h2>
+        <p>Моя мета — зробити ComD компанією, якій довіряють складні проєкти.</p>
+        <ul>
+            <li>Розвивати команду та навчальну програму.</li>
+            <li>Запустити власний продукт для малого бізнесу.</li>
+            <li>Підтримувати високі стандарти якості й безпеки.</li>
+            <li>Будувати довгострокові відносини з клієнтами.</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Зв'язатися</h2>
+        <ul>
+            <li>Email: <a href="mailto:director@comd.example">director@comd.example</a></li>
+            <li>GitHub: <a href="https://github.com/Arsenii123">github.com/Arsenii123</a></li>
+        </ul>
+    </section>
+
+    <p>
+        <a href="{% url 'managment' %}">Керівництво компанії</a> |
+        <a href="{% url 'index' %}">На головну</a>
+    </p>
+</section>
+{% endblock %}

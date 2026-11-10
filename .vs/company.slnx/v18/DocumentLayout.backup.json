@@ -1,0 +1,527 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\company\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:company\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:templates\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\static\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:static\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:templates\\base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\about_company\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:about_company\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\company\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:company\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\company\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:company\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\news\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:news\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\about_company\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:about_company\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\about_company.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:templates\\about_company.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\contacts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:templates\\contacts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\contacts\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:contacts\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\contacts\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:contacts\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\managment\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:managment\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\managment\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:managment\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\about_director.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:templates\\about_director.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\news.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:templates\\news.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\managment.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:templates\\managment.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\managment\\apps.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:managment\\apps.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\managment\\tests.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:managment\\tests.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\managment\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:managment\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\currentaffairs.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:templates\\currentaffairs.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\history.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:templates\\history.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\news\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:news\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\company\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:company\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\news\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:news\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\news\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:news\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\news\\apps.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:news\\apps.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\news\\admin.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:news\\admin.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\company\\wsgi.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:company\\wsgi.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|C:\\Users\\PC\\Desktop\\python\\itstep\\company\\manage.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8547BFF-49E5-46C2-86B4-A80B3DCBF654}|company.pyproj|solutionrelative:manage.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "404.html",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\404.html",
+              "RelativeDocumentMoniker": "templates\\404.html",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\404.html",
+              "RelativeToolTip": "templates\\404.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-09T20:36:21.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\static\\css\\style.css",
+              "RelativeDocumentMoniker": "static\\css\\style.css",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\static\\css\\style.css",
+              "RelativeToolTip": "static\\css\\style.css",
+              "ViewState": "AgIAAHEHAAAAAAAAAAAswIEHAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-08T14:53:25.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\contacts\\views.py",
+              "RelativeDocumentMoniker": "contacts\\views.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\contacts\\views.py",
+              "RelativeToolTip": "contacts\\views.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-08T14:38:12.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "urls.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\about_company\\urls.py",
+              "RelativeDocumentMoniker": "about_company\\urls.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\about_company\\urls.py",
+              "RelativeToolTip": "about_company\\urls.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-08T14:36:47.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\about_company\\views.py",
+              "RelativeDocumentMoniker": "about_company\\views.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\about_company\\views.py",
+              "RelativeToolTip": "about_company\\views.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-08T14:35:41.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "contacts.html",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\contacts.html",
+              "RelativeDocumentMoniker": "templates\\contacts.html",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\contacts.html",
+              "RelativeToolTip": "templates\\contacts.html",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAswGgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-08T14:32:40.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "about_company.html",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\about_company.html",
+              "RelativeDocumentMoniker": "templates\\about_company.html",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\about_company.html",
+              "RelativeToolTip": "templates\\about_company.html",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-08T14:32:28.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\managment\\views.py",
+              "RelativeDocumentMoniker": "managment\\views.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\managment\\views.py",
+              "RelativeToolTip": "managment\\views.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-08T14:11:17.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "tests.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\managment\\tests.py",
+              "RelativeDocumentMoniker": "managment\\tests.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\managment\\tests.py",
+              "RelativeToolTip": "managment\\tests.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-08T14:11:13.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "models.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\managment\\models.py",
+              "RelativeDocumentMoniker": "managment\\models.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\managment\\models.py",
+              "RelativeToolTip": "managment\\models.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-08T14:11:10.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "settings.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\company\\settings.py",
+              "RelativeDocumentMoniker": "company\\settings.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\company\\settings.py",
+              "RelativeToolTip": "company\\settings.py",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-07T16:06:07.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "urls.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\company\\urls.py",
+              "RelativeDocumentMoniker": "company\\urls.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\company\\urls.py",
+              "RelativeToolTip": "company\\urls.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-07T16:06:37.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "base.html",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\base.html",
+              "RelativeDocumentMoniker": "templates\\base.html",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\base.html",
+              "RelativeToolTip": "templates\\base.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-07T16:07:28.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "urls.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\news\\urls.py",
+              "RelativeDocumentMoniker": "news\\urls.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\news\\urls.py",
+              "RelativeToolTip": "news\\urls.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-07T17:27:54.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\company\\views.py",
+              "RelativeDocumentMoniker": "company\\views.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\company\\views.py",
+              "RelativeToolTip": "company\\views.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-07T16:29:28.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "urls.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\contacts\\urls.py",
+              "RelativeDocumentMoniker": "contacts\\urls.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\contacts\\urls.py",
+              "RelativeToolTip": "contacts\\urls.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-08T14:39:07.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "managment.html",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\managment.html",
+              "RelativeDocumentMoniker": "templates\\managment.html",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\managment.html",
+              "RelativeToolTip": "templates\\managment.html",
+              "ViewState": "AgIAALgAAAAAAAAAAAAswNkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-08T14:13:36.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "about_director.html",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\about_director.html",
+              "RelativeDocumentMoniker": "templates\\about_director.html",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\about_director.html",
+              "RelativeToolTip": "templates\\about_director.html",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswGQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-08T14:13:54.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "urls.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\managment\\urls.py",
+              "RelativeDocumentMoniker": "managment\\urls.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\managment\\urls.py",
+              "RelativeToolTip": "managment\\urls.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-08T14:18:57.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "apps.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\managment\\apps.py",
+              "RelativeDocumentMoniker": "managment\\apps.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\managment\\apps.py",
+              "RelativeToolTip": "managment\\apps.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-08T14:11:07.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "news.html",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\news.html",
+              "RelativeDocumentMoniker": "templates\\news.html",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\news.html",
+              "RelativeToolTip": "templates\\news.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-07T16:12:29.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\news\\views.py",
+              "RelativeDocumentMoniker": "news\\views.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\news\\views.py",
+              "RelativeToolTip": "news\\views.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-07T17:12:50.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "__init__.py (company)",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\company\\__init__.py",
+              "RelativeDocumentMoniker": "company\\__init__.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\company\\__init__.py",
+              "RelativeToolTip": "company\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-08T13:57:06.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "admin.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\news\\admin.py",
+              "RelativeDocumentMoniker": "news\\admin.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\news\\admin.py",
+              "RelativeToolTip": "news\\admin.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-07T17:12:42.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "apps.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\news\\apps.py",
+              "RelativeDocumentMoniker": "news\\apps.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\news\\apps.py",
+              "RelativeToolTip": "news\\apps.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-07T17:12:43.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "currentaffairs.html",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\currentaffairs.html",
+              "RelativeDocumentMoniker": "templates\\currentaffairs.html",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\currentaffairs.html",
+              "RelativeToolTip": "templates\\currentaffairs.html",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAKcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-07T17:14:07.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "history.html",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\history.html",
+              "RelativeDocumentMoniker": "templates\\history.html",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\templates\\history.html",
+              "RelativeToolTip": "templates\\history.html",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-07T17:13:48.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "models.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\news\\models.py",
+              "RelativeDocumentMoniker": "news\\models.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\news\\models.py",
+              "RelativeToolTip": "news\\models.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-07T17:12:47.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "__init__.py (news)",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\news\\__init__.py",
+              "RelativeDocumentMoniker": "news\\__init__.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\news\\__init__.py",
+              "RelativeToolTip": "news\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-07T17:12:40.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "wsgi.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\company\\wsgi.py",
+              "RelativeDocumentMoniker": "company\\wsgi.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\company\\wsgi.py",
+              "RelativeToolTip": "company\\wsgi.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-07T16:06:47.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "manage.py",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\manage.py",
+              "RelativeDocumentMoniker": "manage.py",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\manage.py",
+              "RelativeToolTip": "manage.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-07T16:06:25.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

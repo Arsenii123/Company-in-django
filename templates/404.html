@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<section id="error-404" class="error-page">
+    <p class="error-code">404</p>
+    <h1>Сторінку не знайдено</h1>
+    <p>
+        Схоже, такої сторінки не існує. Можливо, адресу введено з помилкою,
+        або сторінку було переміщено чи видалено.
+    </p>
+
+    <div class="error-actions">
+        <a class="btn" href="{% url 'index' %}">На головну</a>
+        <a class="btn btn-outline" href="javascript:history.back()">Повернутися назад</a>
+    </div>
+
+    <section id="tips">
+        <h2>Що можна зробити</h2>
+        <ul>
+            <li>Перевірте, чи правильно введено адресу сторінки.</li>
+            <li>Скористайтеся меню вгорі, щоб знайти потрібний розділ.</li>
+            <li>Поверніться на головну сторінку та почніть звідти.</li>
+            <li>Якщо проблема повторюється, напишіть нам: <a href="mailto:info@comd.example">info@comd.example</a>.</li>
+        </ul>
+    </section>
+</section>
+{% endblock %}
