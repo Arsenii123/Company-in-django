@@ -154,8 +154,7 @@
               "RelativeToolTip": "templates\\404.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-11-09T20:36:21.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T20:36:21.85Z"
             },
             {
               "$type": "Document",
@@ -167,8 +166,7 @@
               "RelativeToolTip": "static\\css\\style.css",
               "ViewState": "AgIAAHEHAAAAAAAAAAAswIEHAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-11-08T14:53:25.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-08T14:53:25.95Z"
             },
             {
               "$type": "Document",
@@ -272,9 +270,9 @@
               "Title": "settings.py",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\company\\settings.py",
               "RelativeDocumentMoniker": "company\\settings.py",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\company\\settings.py",
-              "RelativeToolTip": "company\\settings.py",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\python\\itstep\\company\\company\\settings.py*",
+              "RelativeToolTip": "company\\settings.py*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-11-07T16:06:07.969Z",
               "EditorCaption": ""
